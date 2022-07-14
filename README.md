@@ -43,7 +43,9 @@ Démarrer le projet (par défaut le projet sera lancé sur le port 5000) :
 
 Dans le dossier "backend", renomer le fichier ".env.exemple" en ".env" 
 
-Dans le dossier "backend" / ".env", j'utilise MongoDBCompass pour la connection avec cette url : "mongodb://127.0.0.1:27017/<nom_de_la_bdd>"   
+Dans le dossier "backend" / ".env", j'utilise MongoDBCompass pour la connection avec cette url :
+
+    $ "mongodb://127.0.0.1:27017/<nom_de_la_bdd>"   
 
 Une fois effectué, vous aurait dans votre bdd un dossier <nom_de_la_bdd>. C'est la que l'import des fichiers json des données vont être importé dans la bdd.
 
