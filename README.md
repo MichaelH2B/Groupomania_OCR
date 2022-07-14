@@ -45,7 +45,7 @@ Dans le dossier "backend", renomer le fichier ".env.example" en ".env"
 
 Dans le dossier "backend" / ".env", j'utilise MongoDBCompass pour la connection avec cette url : "mongodb://127.0.0.1:27017/<nom_du_projet>"   
 
-Une fois effectué, vous aurait dans votre bdd un dossier <nom_du_projet>. C'est la que l'import des fichiers json des données vas et importé dans la bdd.
+Une fois effectué, vous aurait dans votre bdd un dossier <nom_du_projet>. C'est la que l'import des fichiers json des données vont être importé dans la bdd.
 
 Pour l'import, il faut se dirigier dans le sous dossier choisie <nom_du_projet> ( ici c'est Groupomania ).
 
