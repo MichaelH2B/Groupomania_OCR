@@ -41,7 +41,7 @@ Démarrer le projet (par défaut le projet sera lancé sur le port 5000) :
 
     $ npm start ou $ nodemon
 
-Dans le dossier "backend", renomer le fichier ".env.example" en ".env" 
+Dans le dossier "backend", renomer le fichier ".env.exemple" en ".env" 
 
 Dans le dossier "backend" / ".env", j'utilise MongoDBCompass pour la connection avec cette url : "mongodb://127.0.0.1:27017/<nom_de_la_bdd>"   
 
