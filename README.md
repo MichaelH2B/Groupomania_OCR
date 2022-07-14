@@ -41,5 +41,18 @@ Démarrer le projet (par défaut le projet sera lancé sur le port 5000) :
 
     $ npm start ou $ nodemon
 
-Dans le dossier "backend", renomer le fichier ".env.example" en ".env" à l'intérieur compléter les données manquantes dans l'url.
-(email et mdp de votre BDD)
+Dans le dossier "backend", renomer le fichier ".env.example" en ".env" 
+
+Dans le dossier "backend" / ".env", j'utilise MongoDBCompass pour la connection avec cette url : "mongodb://127.0.0.1:27017/<nom_du_projet>"   
+
+Une fois effectué, vous aurait dans votre bdd un dossier groupomania. C'est la que l'import des fichiers json des données vas et importé dans la bdd.
+
+Pour l'import, il faut se dirigier dans le sous dossier chosie de <nom_du_projet> ( ici c'est Groupomania ).
+
+Example pour posts, dans document, on fait un "add data" et on importe le fichier json associé.
+
+Une fois fait votre bdd sera prêt a l'utilisation.
+
+
+
+
