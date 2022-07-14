@@ -47,9 +47,9 @@ Dans le dossier "backend" / ".env", j'utilise MongoDBCompass pour la connection 
 
 Une fois effectué, vous aurait dans votre bdd un dossier groupomania. C'est la que l'import des fichiers json des données vas et importé dans la bdd.
 
-Pour l'import, il faut se dirigier dans le sous dossier chosie de <nom_du_projet> ( ici c'est Groupomania ).
+Pour l'import, il faut se dirigier dans le sous dossier choisie <nom_du_projet> ( ici c'est Groupomania ).
 
-Example pour posts, dans document, on fait un "add data" et on importe le fichier json associé.
+Example pour posts, dans document, on fait un "add data" et on importe le fichier json associé et ainsi de suite pour d'autre collection.
 
 Une fois fait votre bdd sera prêt a l'utilisation.
 
