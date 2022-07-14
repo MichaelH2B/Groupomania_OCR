@@ -49,7 +49,7 @@ Une fois effectué, vous aurait dans votre bdd un dossier <nom_du_projet>. C'est
 
 Pour l'import, il faut se dirigier dans le sous dossier choisie <nom_du_projet> ( ici c'est Groupomania ).
 
-Example pour posts, dans document, on fait un "add data" et on importe le fichier json associé et ainsi de suite pour d'autre collection.
+Exemple pour posts, dans document, on fait un "add data" et on importe le fichier json associé et ainsi de suite pour d'autre collection.
 
 Une fois fait votre bdd sera prêt a l'utilisation.
 
