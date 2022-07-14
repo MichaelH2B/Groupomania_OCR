@@ -39,7 +39,10 @@ Ouvrir un deuxième terminal de commande dans le dossier "backend", puis install
 
 Démarrer le projet (par défaut le projet sera lancé sur le port 5000) :
 
-    $ npm start ou $ nodemon
+    $ npm start 
+ou 
+
+    $ nodemon
 
 Dans le dossier "backend", renomer le fichier ".env.exemple" en ".env" 
 
