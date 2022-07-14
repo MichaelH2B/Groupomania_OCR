@@ -1,0 +1,25 @@
+.blocLike {
+    display: flex;
+    width: 90%;
+}
+.btn-like {
+    color: #4e5166;
+    height: 45px;
+    width: 40px;
+    cursor: pointer;
+}
+.btn-like .liked {
+    color: #FD2D01;
+} 
+.fa-heart {
+    height: 25px;
+}
+.number {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    display: flex;
+    height: 25px;
+    align-items: center;
+}
+
